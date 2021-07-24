@@ -1,4 +1,4 @@
-### Hey, hey! 👋
+### hey 👋
 
 <!--
 **tejen/tejen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,14 +20,14 @@ all themes here: https://github.com/anuraghazra/github-readme-stats/blob/master/
 
 ![](https://komarev.com/ghpvc/?username=tejen)
 
-- I studied both Computer Science and International Business at [University of California, San Diego](https://ucsd.edu/), and am learning React.
+- I studied both Computer Science and International Business at [University of California, San Diego](https://ucsd.edu/), and want to learn React next
   
 - iOS/Android Faculty Director for [Facebook University](https://www.facebook.com/careers/students-and-grads/students), check our open-source curriculum [here](https://courses.codepath.com/courses/android_university_fast_track/pages/bootcamp_structure)
 
 - :earth_americas: I'm from San Francisco, CA
 
 
-[![LinkedIn Badge](https://img.shields.io/badge/tejen-patel-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tejenpatel/)](https://www.linkedin.com/in/tejenpatel/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Tejen%20Patel-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tejenpatel/)](https://www.linkedin.com/in/tejenpatel/)
 
 [![Email Badge](https://img.shields.io/badge/contact-me@tejen.net-red?style=for-the-badge&link=mailto:me@tejen.net)](mailto:me@tejen.net)
 
