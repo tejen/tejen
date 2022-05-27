@@ -22,7 +22,7 @@ all themes here: https://github.com/anuraghazra/github-readme-stats/blob/master/
 
 - I studied both Computer Science and International Business at [University of California, San Diego](https://ucsd.edu/), and want to learn React next
   
-- iOS/Android Faculty Director for [Facebook University](https://www.facebook.com/careers/students-and-grads/students), check our open-source curriculum [here](https://courses.codepath.com/courses/android_university_fast_track/pages/bootcamp_structure)
+- iOS/Android Faculty Director for [Facebook University](https://www.facebook.com/careers/students-and-grads/students), check our open-source curriculum [here](https://courses.codepath.com/courses/metau_ios)
 
 - :earth_americas: I'm from San Francisco, CA
 
